@@ -29,7 +29,7 @@ Below is a placeholder for the image of the AWS Step Function workflow. This dia
 
 (![Screenshot 2024-08-12 201318](https://github.com/user-attachments/assets/f6b176ac-b66a-4da9-8c49-5bdbbd7143dd))
 
-![Screenshot 2024-08-12 201426](https://github.com/user-attachments/assets/0cd36b93-266f-437f-9956-5cd866c9533a)
+
 
 ## Getting Started
 
