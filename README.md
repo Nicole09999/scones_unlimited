@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project demonstrates the construction of a machine learning workflow using Amazon SageMaker. The goal is to build an automated system for classifying images of scones, muffins, and other related items, enabling "Scones Unlimited" to enhance their product offerings by identifying and categorizing baked goods accurately.
+This project demonstrates the construction of a machine learning workflow using Amazon SageMaker. The goal is to build an automated system for classifying images of vehicles like  bikes or bicycles enabling "Scones Unlimited" to enhance their product offerings by identifying and categorizing the type of vehicle suitable for delivery based on the distance from the location or the traffic .
 
 ## Architecture
 
